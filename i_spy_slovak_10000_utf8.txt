@@ -1,1 +1,360 @@
-
+úložný priestor
+vankúš
+sedák
+stohovač
+rúško
+fotoaparát
+tričko
+nožnice
+pohovka
+ponožka
+magnet
+taška
+bubon
+vysávač
+hra
+plechovka
+zváračská prilba
+kľúč
+kvetináč
+svetlo
+deka
+stolička
+pohár
+košík
+rámik
+myš
+magnetka
+skrinka
+lyžica
+koberec
+ovládač
+kniha
+kalkulačka
+dvere
+kozmetika
+notebook
+cedník
+ventilátor
+okno
+balón
+externý disk
+rúčka
+papuča
+žiarovka
+čajník
+hračka
+lano
+klávesnica
+špongia
+lampión
+lampáš
+schody
+kaktus
+perlička
+stôl
+taburetka
+hodiny
+prsteň
+čokoláda
+mrkva
+USB kábel
+náušnice
+lampa
+zrkadlo
+hrnček
+skladací stolík
+diár
+zvuková karta
+kufor
+telefón
+mapa
+kytica
+kreslo
+ventil
+nálepka
+klavír
+uško
+sedačka
+farba
+obraz
+jablko
+polica
+počítačová myš
+šálka
+zástrčka
+rukavice
+klobúk
+teplomer
+sklo
+dron
+dávkovač
+počítač
+vysielačka
+gitarová struna
+ceruzka
+molitan
+žuvačka
+jedlo
+dinosaurus
+záves
+prilba
+vianočná ozdoba
+šalát
+pero
+fľaša
+gombík
+vodičský preukaz
+papiere
+socha
+slnečné okuliare
+reproduktor
+sviečka
+vesmírna loď
+obal na mobil
+batoh
+kvety
+rastlina
+látka
+obrus
+vitrína
+televízor
+príbor
+kancelárske kreslo
+hodinky
+kvetina
+tanier
+hrniec
+papuče
+šaty
+peňaženka
+postel
+záložka
+kabelka
+mobilný telefón
+kľúče
+slúchadlá
+rúž
+šampón
+stolík
+kožená peňaženka
+hlavolam
+obrazy
+vesiaky
+stierač
+bundy
+korčule
+fľaša vody
+potápačská maska
+športová obuv
+okuliare
+pravítko
+lepidlo
+obálka
+mince
+šuplík
+uterák
+srsť
+šnúrky
+reťaz
+jojo
+spacák
+vrece
+lopta
+gumený náramok
+vaza
+tv program
+denník
+pečené jablká
+záhrada
+bábovka
+hrabličky
+lampička
+izbová lampa
+kuchynská rukavica
+topánky
+žehlička
+ponožky
+froté uterák
+sprchový gél
+peľ
+náhrdelník
+chlebík
+fotografia
+poznámkový blok
+tabuľa
+odpadkový kôš
+poduška
+batéria
+počítačová klávesnica
+mydlová pumpa
+kliešte
+toaletný papier
+tatranky
+pončo
+rám obrazu
+obrazovka
+pohľadnica
+zváračka
+raketa
+čínska lampička
+kyvátko
+chlebník
+zápalky
+pohár na víno
+zubná kefka
+odznak
+kávovar
+disk
+podložka
+mobil
+puzzle
+šál
+detektívka
+fólia
+pocítacek
+hrable
+podnos
+nôž
+zubná niť
+povlak
+flakón
+balzam
+medvedík
+spodná bielizeň
+topánka
+činka
+postrekovač
+kôš
+stohovací box
+kamery
+parfém
+hracia konzola
+dóza
+dekorácia
+album
+lízanka
+čajová kanvica
+ružička
+kosák
+hasiaci prístroj
+balónik
+hokejka
+pichliač
+držadlo
+video
+korytnačka
+kolieska
+prikrývka
+paravan
+plachta
+maslový nôž
+plávacia doska
+joystick
+piškótky
+prostriedok na riad
+taštička
+šatník
+súprava na úpravu nechtov
+úložný box
+veslo
+cvičebná pomôcka
+bunda
+toaletná voda
+vianočné ozdoby
+kvapky na oči
+žiletka
+balenie
+termoska
+obuv
+rukavica
+hokejová prilba
+nabíjací kábel
+maslovačka
+napichovačka
+oštep
+húkačka
+náhradné koleso
+drevená doska
+barbína
+múka
+ceruzky
+ovocný džús
+vianočná výzdoba
+flóra
+lopatka
+les
+zváracia prilba
+páska
+čistič okien
+gitarové struny
+čínsky lampión
+farebný papier
+zvierací dom
+obal
+sústruh
+kocka ľadu
+balónek
+bochník chleba
+tyčinka
+zlatý prívesok
+hrnček na čaj
+fixky
+telefónna karta
+vyšívaná deka
+škrabka
+šál na krk
+fixka
+papierové vreckovky
+turistické palice
+lavica
+videorekordér
+prázdny obal
+rúra
+baterka
+turistický batoh
+stojan
+balkón
+priečinky
+ružový papier
+nabíjačka
+krabica
+skladací stôl
+pútko na kľúče
+sada farbičiek
+šnúrka
+modrá košeľa
+čistič na okuliare
+obal na telefón
+ručná brzda
+chladnička
+plážový uterák
+telefónne číslo
+vreckovky
+náramok
+fotorám
+šnúra na prádlo
+vodovodný kohútik
+mapa mesta
+plátno
+pevný disk
+čipka
+projekčný kábel
+fľaša na pitie
+plazmová televízia
+vysoký klobúk
+čižmy
+hrnček na kávu
+hudobné nástroje
+pikniková deka
+perina
+opasok
+dekoratívna figúrka
+mobilný držiak
+súprava príborov
+kefka
+škrabka na zemiaky
+podlahová lampa
+špáratko
+držiak na fotku
+telefónna záznamníková doska
